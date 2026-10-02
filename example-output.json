@@ -1,0 +1,5 @@
+{
+  "basis": "Constant-Cp hand calculation; not DWSIM output.",
+  "outlet_kg_h": 1500,
+  "temperature_C": 33.333333333333336
+}
